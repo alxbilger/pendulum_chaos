@@ -13,3 +13,6 @@ ODE solver is implicit Euler.
 
 See a video of the simulation:
 https://youtu.be/j1WBztUCyms
+
+Sofa:
+https://www.sofa-framework.org/
